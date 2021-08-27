@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I told my friend to look under there, and he said "underwear"
 Use the left arrow to go back!
